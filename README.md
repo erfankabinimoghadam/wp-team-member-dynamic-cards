@@ -1,4 +1,4 @@
-# wp-team-member-dynamic-cards
+# WP Team Member Dynamic Cards
 A WordPress solution for dynamically generating team member cards from custom fields, with pagination, alphabetical sorting, and smooth anchor linking. Includes a system to automatically link course pages to individual team members’ profiles.
 
 This project provides a flexible system for managing and displaying team member profiles, such as course leads, using a custom field setup in WordPress. The system was designed for projects where administrators are already familiar with native custom fields and need a solution that allows team members to be reused across multiple pages. Each team member’s profile includes basic information such as name, subtitle, description, and a photo. The system ensures a smooth user experience by generating links that can navigate to the correct page and scroll directly to a specific member card on the main team page.
