@@ -7,11 +7,16 @@ The main team page dynamically generates cards for each member, supporting pagin
 
 The system was built to accommodate up to 100 team member profiles while maintaining simplicity and ease of reuse. Team member images are automatically located based on a naming convention in the uploads folder, with a fallback to a placeholder image if necessary. For public or shared code, all PHP and JavaScript class names, IDs, and custom field keys are abstracted to neutral placeholder names, and the HTML structure has been simplified to focus on core functionality rather than styling.
 
-Features
+Features:
 
 Dynamically generates team member cards with pagination on the team page.
+
 Supports up to 100 members with custom fields for name, subtitle, description, and image.
+
 Generates course lead cards on course pages by referencing team members.
+
 Links from course pages back to the correct team page and card using smooth scrolling.
+
 Sorts cards alphabetically and assigns unique IDs for anchor links.
+
 Dynamically handles images with a fallback to placeholders.
